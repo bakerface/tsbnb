@@ -1,5 +1,4 @@
 import * as React from "react";
 
-const App = () => <div id="app" />;
-
-export default App;
+export type TApp = React.SFC<{}>;
+export const App: TApp = () => <div id="app" />;
