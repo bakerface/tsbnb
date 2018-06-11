@@ -6,6 +6,9 @@
     "tslint-immutable"
   ],
   "rules": {
-    "no-implicit-dependencies": [true, "dev"]
+    "no-implicit-dependencies": [
+      true,
+      "dev"
+    ]
   }
 }
