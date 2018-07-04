@@ -17,7 +17,7 @@
       "prettier-json",
       "git add"
     ],
-    "*.md": [
+    "*.{js,jsx,md}": [
       "prettier --write",
       "git add"
     ],
